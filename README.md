@@ -2,7 +2,8 @@
 # General Basics
 
 ## 0.Git Basics
-![Image alt](https://github.com/babayK0/kottans-frontend/raw/master/task_git_basics/task_git_basics.png)
+![task_git_basics](https://github.com/babayK0/kottans-frontend/
+        kottans-frontend/task_git_basics/task_git_basics.PNG)
 ## 1.Linux CLI and Networking
 ## 2.VCS (hello gitty), GitHub and Collaboration
 
