@@ -2,6 +2,13 @@
 # General Basics
 
 ## 0.Git Basics
+**I knew what Git and GitHub are, but I never worked with them.After completing the course, I learned a lot of new things for myself.According to this i can say :**
+
+* **All manipulations/commands with Git was new for me and it is very interesting**
+* **I was surprised how quickly you can change your mind about Git after this course**:smile:
+* **Anyways i will be use Git in my future projects**
+
+
 ![task_git_basics](https://github.com/babayK0/kottans-frontend/raw/master/task_git_basics/task_git_basics.PNG)
 ## 1.Linux CLI and Networking
 ## 2.VCS (hello gitty), GitHub and Collaboration
