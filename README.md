@@ -9,7 +9,7 @@
 * **Anyways i will be use Git in my future projects**
 
 ![task_git_basics](https://github.com/babayK0/kottans-frontend/raw/master/task_git_basics/task_git_basics.PNG)
-## 1.Linux CLI, and HTTP
+## 1.Linux CLI and HTTP
 **Although I knew the basic bash commands, repeating them was useful, but without practice, you start to forget even basic things. Therefore, the lesson for me was more than useful.** :satisfied:
 
 **Since I knew almost nothing about HTTP, I can say the following:**
