@@ -19,7 +19,16 @@
 
 ![task_linux_cli](https://github.com/babayK0/kottans-frontend/raw/master/task_linux_cli/task_linux_cli.PNG)
 ## 2.VCS (hello gitty), GitHub and Collaboration
+### What is Version Control
+**In this lesson, I really fastened the basic concepts of Git. This lesson is a very cool way to explain how to work with Git**
+![task_git_collaboration1](https://github.com/babayK0/kottans-frontend/raw/master/task_git_collaboration/task_git_collaboration1.PNG)
+### GitHub & Collaboration
+**Without this lesson, it's hard for beginners to understand how Git and GitHub are interconnected. For me, this lesson was a good repetition of what I know. Of course, I learned some small details that I did not know (for example features of fetch, pool and rebase).**
 
+**After I have started to understand the material better, I will, of course, use Git & GitHub in the future**:smile:
+![task_git_collaboration2](https://github.com/babayK0/kottans-frontend/raw/master/task_git_collaboration/task_git_collaboration2.PNG)
+        
+      
 # Front-End Basics
 ## 3.Intro to HTML & CSS
 ## 4.Responsive Web Design
