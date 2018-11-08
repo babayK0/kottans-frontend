@@ -1,4 +1,4 @@
-# kottans-frontend 
+# kottans-frontend  :smile_cat:
 # General Basics
 
 ## 0.Git Basics
@@ -18,7 +18,7 @@
 * **Without a doubt, I will try to use the knowledge gained during this lesson in the future**
 
 ![task_linux_cli](https://github.com/babayK0/kottans-frontend/raw/master/task_linux_cli/task_linux_cli.PNG)
-## 2.VCS (hello gitty), GitHub and Collaboration
+## 2.Git Collaboration
 ### What is Version Control
 **In this lesson, I really fastened the basic concepts of Git. This lesson is a very cool way to explain how to work with Git**
 ![task_git_collaboration1](https://github.com/babayK0/kottans-frontend/raw/master/task_git_collaboration/task_git_collaboration1.PNG)
