@@ -33,8 +33,10 @@
 ## 3.Intro to HTML & CSS
 **Honestly, this course was easy for me, because I know most of it :relieved: However, I do not know very well about DevTools in other browsers other than Google Chrome, so I further read a bit about it**
 ![task_git_html_css_intro1](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro1.PNG)
-**I finished all free exercises here.Tasks here were interesting especially in CSS**
+**I finished all free exercises here.Tasks here were interesting especially in CSS.I also completed a bit of exercise on the freecodecamp**:smile:
+
 **I used HTML & CSS, I use them now, and will use them in future**:exclamation:
+
 ![task_git_html_css_intro](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro.PNG)
 ![task_git_html_css_intro2](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro2.PNG)
 ![task_git_html_css_intro3](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro3.PNG)
