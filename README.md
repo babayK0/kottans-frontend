@@ -36,6 +36,8 @@
 **I finished all free exercises here.Tasks here were interesting especially in CSS**
 **I used HTML & CSS, I use them now, and will use them in future**:exclamation:
 ![task_git_html_css_intro](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro.PNG)
+![task_git_html_css_intro2](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro2.PNG)
+![task_git_html_css_intro3](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro3.PNG)
    
 ## 4.Responsive Web Design
 ## 5.JavaScript Basics
