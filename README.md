@@ -42,6 +42,17 @@
 ![task_git_html_css_intro3](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro3.PNG)
    
 ## 4.Responsive Web Design
+**This course has improved my knowledge of responsive web design.**
+* **I studied several patterns of web pages and tried to implement them.**
+* **There were a lot of subtleties that I did not understand before.**
+![task_responsive_web_design1](https://github.com/babayK0/kottans-frontend/raw/master/task_responsive_web_design/task_responsive_web_design1.PNG)
+**Despite the fact that this is a game, she really helped me to better understand the flex**:frog:
+![task_responsive_web_design2](https://github.com/babayK0/kottans-frontend/raw/master/task_responsive_web_design/task_responsive_web_design2.PNG)
+
+**I also did one of the extra tasks to improve the understanding of the Grid**:deciduous_tree:
+![task_responsive_web_design3](https://github.com/babayK0/kottans-frontend/raw/master/task_responsive_web_design/task_responsive_web_design3.PNG)
+        
+      
 ## 5.JavaScript Basics
 ## 6.Document Object Model - practice
 
