@@ -52,7 +52,9 @@
 **This course has improved my knowledge of responsive web design.**
 * **I studied several patterns of web pages and tried to implement them.**
 * **There were a lot of subtleties that I did not understand before.**
+
 ![task_responsive_web_design1](https://github.com/babayK0/kottans-frontend/raw/master/task_responsive_web_design/task_responsive_web_design1.PNG)
+
 **Despite the fact that this is a game, she really helped me to better understand the flex**:frog:
 
 [Flexbox froggy](https://github.com/babayK0/kottans-frontend/raw/master/task_responsive_web_design/task_responsive_web_design2.PNG)
