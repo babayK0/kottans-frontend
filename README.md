@@ -65,7 +65,13 @@
         
       
 ## 5.JavaScript Basics
+**Honestly, this course for me was extremely interesting and cognitive. I learned a lot of new things.When I started performing freecodecamp, I realized that my knowledge was far from ideal.I knew how to perform most tasks, I devised algorithms for them, but since I did not know the language ideally therefore most tasks were performed with hints.I am a little disappointed in myself. But this will not prevent me from progressing !!!**
+
 ![task_js_basics](https://github.com/babayK0/kottans-frontend/raw/master/task_js_basics/task_js_basics1.PNG)
+
+![freeCodeCampp](https://github.com/babayK0/kottans-frontend/raw/master/task_js_basics/task_js_basics2.PNG)
+
+      
 
 ## 6.Document Object Model - practice
 
