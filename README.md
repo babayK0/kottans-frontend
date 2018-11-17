@@ -65,6 +65,7 @@
         
       
 ## 5.JavaScript Basics
+![task_js_basics](https://github.com/babayK0/kottans-frontend/raw/master/task_js_basics/task_js_basics1.PNG)
 
 ## 6.Document Object Model - practice
 
