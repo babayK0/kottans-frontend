@@ -37,12 +37,14 @@
 # Front-End Basics
 ## 3.Intro to HTML & CSS
 **Honestly, this course was easy for me, because I know most of it :relieved: However, I do not know very well about DevTools in other browsers other than Google Chrome, so I further read a bit about it**
-![task_git_html_css_intro1](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro1.PNG)
+
+[HTML & CSS screenshot](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro1.PNG)
+
 **I finished all free exercises here.Tasks here were interesting especially in CSS.I also completed a bit of exercise on the freecodecamp**:smile:
 
 **I used HTML & CSS, I use them now, and will use them in future**:exclamation:
 
-![task_git_html_css_intro](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro.PNG)
+[htmlAcademy screenshot](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro.PNG)
 
 [freeCodeCampHTML](https://github.com/babayK0/kottans-frontend/raw/master/task_git_html_css_intro/task_html_css_intro2.PNG)
 
@@ -53,7 +55,7 @@
 * **I studied several patterns of web pages and tried to implement them.**
 * **There were a lot of subtleties that I did not understand before.**
 
-![task_responsive_web_design1](https://github.com/babayK0/kottans-frontend/raw/master/task_responsive_web_design/task_responsive_web_design1.PNG)
+[Responsive Web Design screenshot](https://github.com/babayK0/kottans-frontend/raw/master/task_responsive_web_design/task_responsive_web_design1.PNG)
 
 **Despite the fact that this is a game, she really helped me to better understand the flex**:frog:
 
@@ -67,9 +69,9 @@
 ## 5.JavaScript Basics
 **Honestly, this course for me was extremely interesting and cognitive. I learned a lot of new things.When I started performing freecodecamp, I realized that my knowledge was far from ideal.I knew how to perform most tasks, I devised algorithms for them, but since I did not know the language ideally therefore most tasks were performed with hints.I am a little disappointed in myself. But this will not prevent me from progressing !!!**
 
-![task_js_basics](https://github.com/babayK0/kottans-frontend/raw/master/task_js_basics/task_js_basics1.PNG)
+[JavaScript Basics screenshot](https://github.com/babayK0/kottans-frontend/raw/master/task_js_basics/task_js_basics1.PNG)
 
-![freeCodeCampp](https://github.com/babayK0/kottans-frontend/raw/master/task_js_basics/task_js_basics2.PNG)
+[freeCodeCamp screenshot](https://github.com/babayK0/kottans-frontend/raw/master/task_js_basics/task_js_basics2.PNG)
 
       
 
