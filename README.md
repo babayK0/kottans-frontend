@@ -76,7 +76,19 @@
       
 
 ## 6.Document Object Model - practice
+**During this task, I learned a lot about new things, especially about DOM methods. It was very interesting to create something new, in spite of all the difficulties. Firstly, when you write a code and it does not work, you are disappointed, but if you do not give up and are looking for a solution, you will get unforgettable emotions.**
 
+[Udacity screenshot](https://github.com/babayK0/kottans-frontend/raw/master/task_js_dom/task_js_dom.PNG)
+
+**Separately, I want to say about the tasks at freecodecamp. For me, several algorithms were relatively simple. But most of them were complicated in the implementation process. I watched hints, searched for similar tasks on the Internet, tried to write. Yes, it was hard for me because I still do not know much about JS.**
+
+**P.S. I will try to accomplish these tasks later, I hope they will not be very difficult, and it will be ridiculous for me to look at these tasks, which I could not have done before without hints.**
+
+[freeCodeCamp screenshot](https://github.com/babayK0/kottans-frontend/raw/master/task_js_dom/freecodecamp.PNG)
+
+ **Code sent for review. I am waiting for approving.**
+ 
+[Demo](https://babayk0.github.io/) | [Code base](https://github.com/babayK0/babayK0.github.io)
 # Advanced Topics
 ## 7.Building a Tiny JS World (pre-OOP) - practice
 ## 8.Object oriented JS
