@@ -75,7 +75,7 @@
 
       
 
-## 6.Document Object Model - practice
+## 6.DOM
 **During this task, I learned a lot about new things, especially about DOM methods. It was very interesting to create something new, in spite of all the difficulties. Firstly, when you write a code and it does not work, you are disappointed, but if you do not give up and are looking for a solution, you will get unforgettable emotions.**
 
 [Udacity screenshot](https://github.com/babayK0/kottans-frontend/raw/master/task_js_dom/task_js_dom.PNG)
