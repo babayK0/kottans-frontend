@@ -88,7 +88,8 @@
 
  **Code sent for review. I am waiting for approving.**
  
-[Demo](https://babayk0.github.io/) | [Code base](https://github.com/babayK0/babayK0.github.io)
+[Demo](https://babayk0.github.io/js-dom-midleearth/) | [Code base](https://github.com/babayK0/babayK0.github.io)
+
 # Advanced Topics
 ## 7.Building a Tiny JS World (pre-OOP) - practice
 ## 8.Object oriented JS
