@@ -92,7 +92,7 @@
 
 # Advanced Topics
 ## 7.A Tiny JS World
-**This task is just start of my learning of Javascript OOP specifics **
+**This task is just start of my learning of Javascript OOP specifics**
 
 [Demo](https://babayk0.github.io/a-tiny-JS-world/) | [Code base](https://github.com/babayK0/a-tiny-JS-world)
 
