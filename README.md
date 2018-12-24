@@ -91,7 +91,11 @@
 [Demo](https://babayk0.github.io/js-dom-midleearth/) | [Code base](https://github.com/babayK0/babayK0.github.io)
 
 # Advanced Topics
-## 7.Building a Tiny JS World (pre-OOP) - practice
+## 7.A Tiny JS World
+**This task is just start of my learning of Javascript OOP specifics **
+
+[Demo](https://babayk0.github.io/a-tiny-JS-world/) | [Code base](https://github.com/babayK0/a-tiny-JS-world)
+
 ## 8.Object oriented JS
 ## 9.OOP exercise - practice
 ## 10.Offline Web Applications
