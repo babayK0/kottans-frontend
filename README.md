@@ -86,7 +86,7 @@
 
 [freeCodeCamp screenshot](https://github.com/babayK0/kottans-frontend/raw/master/task_js_dom/freecodecamp.PNG)
 
- **Reviewed and approved by @AMashoshyna**
+ **Subtask 3. Reviewed and approved by @AMashoshyna**
  
 [Demo](https://babayk0.github.io/js-dom-midleearth/) | [Code base](https://github.com/babayK0/babayK0.github.io)
 
