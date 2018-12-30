@@ -86,15 +86,17 @@
 
 [freeCodeCamp screenshot](https://github.com/babayK0/kottans-frontend/raw/master/task_js_dom/freecodecamp.PNG)
 
- **Subtask 3. Reviewed and approved by @AMashoshyna**
+ **Subtask 3.**
  
 [Demo](https://babayk0.github.io/js-dom-midleearth/) | [Code base](https://github.com/babayK0/babayK0.github.io)
+ **Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna)**
 
 # Advanced Topics
 ## 7.A Tiny JS World
 **This task is just start of my learning of Javascript OOP specifics**
 
-[Demo](https://babayk0.github.io/a-tiny-JS-world/) | [Code base](https://github.com/babayK0/a-tiny-JS-world)
+[Demo](https://babayk0.github.io/a-tiny-JS-world/) | [Code base](https://github.com/babayK0/a-tiny-JS-world) 
+**Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)**
 
 ## 8.Object oriented JS
 ## 9.OOP exercise - practice
