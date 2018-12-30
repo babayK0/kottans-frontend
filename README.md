@@ -98,7 +98,14 @@
 [Demo](https://babayk0.github.io/a-tiny-JS-world/) | [Code base](https://github.com/babayK0/a-tiny-JS-world) 
 **Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)**
 
-## 8.Object oriented JS
+## 8.Object Oriented JS
+**I know a lot about OOP, but anyway, in this course there were a lot new things for me.Especially i did not  know Javascript OOP specifics(closures, different class patterns like functional, prototypal and pseudo-classical). Also i try to write  DRY and SOLID code on Java Script**
+
+[Udacity OOP Course](https://github.com/babayK0/kottans-frontend/raw/master/task_js_oop/udacityoop.PNG)
+
+**There is my Codewars profile here** :point_down:
+![Codewars](https://github.com/babayK0/kottans-frontend/raw/master/task_js_oop/Codewars.PNG)
+
 ## 9.OOP exercise - practice
 ## 10.Offline Web Applications
 ## 11.Memory pair game — real project!
