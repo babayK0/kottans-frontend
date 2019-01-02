@@ -106,6 +106,11 @@
 **There is my Codewars profile here** :point_down:
 ![Codewars](https://github.com/babayK0/kottans-frontend/raw/master/task_js_oop/Codewars.PNG)
 
+**"Frogger"**
+
+[Demo](https://babayk0.github.io/Frogger/) | [Code base](https://github.com/babayK0/babayK0.github.io/blob/master/Frogger/js/app.js)
+**Code is on review**
+
 ## 9.OOP exercise - practice
 ## 10.Offline Web Applications
 ## 11.Memory pair game — real project!
