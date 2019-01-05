@@ -119,5 +119,9 @@
 
 ## 10.Offline Web Applications
 ## 11.Memory pair game — real project!
+
+[PLAY :video_game:](https://babayk0.github.io/Memory-Pair-Game/) | [Code base](https://github.com/babayK0/Memory-Pair-Game)
+**Code is on review**
+
 ## 12.Website Performance Optimization
 ## 13.Friends App - real project!
