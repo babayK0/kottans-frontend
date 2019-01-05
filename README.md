@@ -109,7 +109,7 @@
 **"Frogger"**
 
 [Demo](https://babayk0.github.io/Frogger/) | [Code base](https://github.com/babayK0/babayK0.github.io/blob/master/Frogger/js/app.js)
-**Code is on review**
+ **Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna)**
 
 ## 9.OOP Exercise
 **This task was continuing my previous [one](https://github.com/babayK0/kottans-frontend#7a-tiny-js-world). I tried to implement an my new knowledge received during the previous task.**
