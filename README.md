@@ -115,7 +115,7 @@
 **This task was continuing my previous [one](https://github.com/babayK0/kottans-frontend#7a-tiny-js-world). I tried to implement an my new knowledge received during the previous task.**
 
 [Demo](https://babayk0.github.io/a-tiny-JS-world/) | [Code base](https://github.com/babayK0/a-tiny-JS-world/blob/master/index.js)
-**Code is on review**
+ **Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna)**
 
 ## 10.Offline Web Applications
 ## 11.Memory pair game — real project!
