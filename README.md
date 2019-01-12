@@ -118,10 +118,11 @@
  **Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna)**
 
 ## 10.Offline Web Applications
-## 11.Memory pair game — real project!
-
+## 11.Memory pair game
 [PLAY :video_game:](https://babayk0.github.io/Memory-Pair-Game/) | [Code base](https://github.com/babayK0/Memory-Pair-Game)
 **Code is on review**
 
 ## 12.Website Performance Optimization
-## 13.Friends App - real project!
+## 13.Friends App
+[Demo](https://babayk0.github.io/Friends-app/) | [Code base](https://github.com/babayK0/Friends-app)
+**Code is on review**
