@@ -118,6 +118,14 @@
  **Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna)**
 
 ## 10.Offline Web Applications
+[Udacity OWA Course](https://github.com/babayK0/kottans-frontend/raw/master/task_offline_web_app/udacity_owa.PNG)
+
+**I think this is a very important task for this course, but it is also one of the most difficult.
+I just want to give "a pro tip" for  all beginners who want to learn programming including on JS :point_down:**
+![mem_pro_tip](https://github.com/babayK0/kottans-frontend/raw/master/task_offline_web_app/mem.PNG)
+
+**P.S. It's all a joke, but in reality, although the topic is not easy and confusing, it's interesting.I think that I not once will re-read the information about SW, cache, etc.**
+
 ## 11.Memory pair game
 [PLAY :video_game:](https://babayk0.github.io/Memory-Pair-Game/) | [Code base](https://github.com/babayK0/Memory-Pair-Game)
 **Code is on review**
