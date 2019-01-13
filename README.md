@@ -131,6 +131,10 @@ I just want to give "a pro tip" for  all beginners who want to learn programming
 **Code is on review**
 
 ## 12.Website Performance Optimization
+**This optional task was so interesting. And there are a lot of helpful tips which i think will use in future.**
+
+[Udacity Screenshots](https://github.com/babayK0/kottans-frontend/raw/master/task_website_performance/)
+
 ## 13.Friends App
 [Demo](https://babayk0.github.io/Friends-app/) | [Code base](https://github.com/babayK0/Friends-app)
 **Code is on review**
