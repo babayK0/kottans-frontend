@@ -128,7 +128,7 @@ I just want to give "a pro tip" for  all beginners who want to learn programming
 
 ## 11.Memory pair game
 [PLAY :video_game:](https://babayk0.github.io/Memory-Pair-Game/) | [Code base](https://github.com/babayK0/Memory-Pair-Game)
-**Code is on review**
+**Reviewed and approved by [@zonzujiro](https://github.com/zonzujiro)**
 
 ## 12.Website Performance Optimization
 **This optional task was so interesting. And there are a lot of helpful tips which i think will use in future.**
