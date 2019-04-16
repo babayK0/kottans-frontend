@@ -88,14 +88,14 @@
 
  **Subtask 3.**
  
-[Demo](https://babayk0.github.io/js-dom-midleearth/) | [Code base](https://github.com/babayK0/babayK0.github.io)
+[Demo](https://babayk0.github.io/test-projects/js-dom-midleearth/) | [Code base](https://github.com/babayK0/babayK0.github.io/tree/master/test-projects/js-dom-midleearth)
  **Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna)**
 
 # Advanced Topics
 ## 7.A Tiny JS World
 **This task is just start of my learning of Javascript OOP specifics**
 
-[Demo](https://babayk0.github.io/a-tiny-JS-world/) | [Code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/babayK0/a-tiny-JS-world/index.js) 
+[Demo](https://babayk0.github.io/test-projects/a-tiny-JS-world/) | [Code base](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/babayK0/a-tiny-JS-world/index.js) 
 **Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)**
 
 ## 8.Object Oriented JS
@@ -108,13 +108,13 @@
 
 **"Frogger"**
 
-[Demo](https://babayk0.github.io/Frogger/) | [Code base](https://github.com/babayK0/babayK0.github.io/blob/master/Frogger/js/app.js)
+[Demo](https://babayk0.github.io/test-projects/Frogger/) | [Code base](https://github.com/babayK0/babayK0.github.io/blob/master/test-projects/Frogger/js/app.js)
  **Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna)**
 
 ## 9.OOP Exercise
 **This task was continuing my previous [one](https://github.com/babayK0/kottans-frontend#7a-tiny-js-world). I tried to implement an my new knowledge received during the previous task.**
 
-[Demo](https://babayk0.github.io/a-tiny-JS-world/) | [Code base](https://github.com/babayK0/a-tiny-JS-world/blob/master/index.js)
+[Demo](https://babayk0.github.io/test-projects/a-tiny-JS-world/) | [Code base](https://github.com/babayK0/a-tiny-JS-world/blob/master/index.js)
  **Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna)**
 
 ## 10.Offline Web Applications
